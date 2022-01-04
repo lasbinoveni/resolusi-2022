@@ -1,6 +1,6 @@
 RESOLUSI 2022
--menguasai html5 dan css 3
--menguasai php
+-menguasai html5 dan css 3 (bootstrap)
+-menguasai php (laravel)
 -menjadi web developer
 -setelah di terima di perusahaan
 -menjalankan sampingan di freelance sebagai web developer
