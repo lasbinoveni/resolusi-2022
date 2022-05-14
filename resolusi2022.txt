@@ -1,7 +1,8 @@
 RESOLUSI 2022
+
+- Menggunakan Ubuntu
 - Menguasai javascript
 - Menguasai Database MySQL
-- Menguasai MongoDB
+- Menguasai Database MongoDB
 - Menguasai Node.Js
 - Menjadi web developer
-
