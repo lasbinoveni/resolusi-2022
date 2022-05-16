@@ -5,6 +5,7 @@ RENCANA KONTEN
   * ES6
   * Framework JavaScript
     vue
+    React
 -Struktur data dasar 
 -PHP Framework
  * laravel
